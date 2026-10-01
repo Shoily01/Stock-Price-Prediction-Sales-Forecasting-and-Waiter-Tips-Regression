@@ -1,0 +1,12 @@
+# Jupyter and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# virtual environments
+.venv/
+venv/
+
+# operating-system files
+.DS_Store
+Thumbs.db
