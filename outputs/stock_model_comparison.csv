@@ -1,0 +1,3 @@
+Model,RMSE
+LSTM (30-day window),2.744
+Naive (previous close),1.624

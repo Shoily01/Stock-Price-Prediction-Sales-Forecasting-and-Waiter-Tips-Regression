@@ -1,0 +1,6 @@
+Model,Train R2,Test R2,Test RMSE,CV R2 (mean),CV R2 (std)
+1. Baseline (bill only),0.463,0.503,1.024,0.464,0.076
+2. Linear (all features),0.534,0.544,0.981,0.506,0.044
+3. Ridge (tuned alpha),0.523,0.539,0.986,0.506,0.045
+4. Random Forest (tuned),0.594,0.507,1.02,0.447,0.045
+5. Gradient Boosting (tuned),0.597,0.524,1.003,0.465,0.045
